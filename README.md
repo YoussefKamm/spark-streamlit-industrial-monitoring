@@ -575,23 +575,6 @@ http://localhost:8501
 
 ---
 
-## Dashboard Preview
-
-A screenshot of the dashboard can be added here:
-
-```markdown
-![Industrial Machine Monitoring Dashboard](assets/dashboard.png)
-```
-
-To use it, create:
-
-```text
-assets/
-└── dashboard.png
-```
-
----
-
 ## Technologies
 
 | Technology | Usage |
