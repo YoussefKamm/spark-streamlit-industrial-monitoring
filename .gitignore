@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+.vscode/
+
+.streamlit/secrets.toml
+
+spark-warehouse/
+metastore_db/
+derby.log
+
+*.log

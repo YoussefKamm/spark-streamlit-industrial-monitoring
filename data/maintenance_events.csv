@@ -1,0 +1,125 @@
+event_id,machine_id,event_date,maintenance_type,downtime_minutes,cost_eur,technician_id,issue
+E0001,M001,2026-08-04,Preventive,83,356.5,T04,High vibration
+E0002,M001,2026-08-13,Inspection,39,233.71,T01,Routine inspection
+E0003,M001,2026-08-22,Inspection,36,157.29,T03,Electrical fault
+E0004,M001,2026-08-24,Preventive,31,628.39,T01,Sensor calibration
+E0005,M001,2026-08-26,Preventive,73,310.94,T03,Electrical fault
+E0006,M001,2026-09-03,Corrective,60,1448.59,T04,Overheating
+E0007,M002,2026-08-01,Corrective,129,1261.95,T04,Lubrication
+E0008,M002,2026-08-07,Corrective,254,2165.07,T02,High vibration
+E0009,M002,2026-08-12,Inspection,10,275.65,T04,Lubrication
+E0010,M002,2026-08-13,Corrective,272,2251.71,T04,Electrical fault
+E0011,M002,2026-08-29,Preventive,21,273.58,T02,Bearing wear
+E0012,M002,2026-08-31,Preventive,72,556.5,T05,Bearing wear
+E0013,M002,2026-09-04,Inspection,42,267.66,T02,Routine inspection
+E0014,M003,2026-08-03,Preventive,72,477.95,T03,Bearing wear
+E0015,M003,2026-08-12,Inspection,32,212.45,T05,Pressure instability
+E0016,M003,2026-08-16,Preventive,45,356.37,T03,Electrical fault
+E0017,M003,2026-08-21,Corrective,309,1826.61,T03,Bearing wear
+E0018,M003,2026-09-02,Preventive,89,263.03,T04,Bearing wear
+E0019,M003,2026-09-04,Preventive,69,167.67,T03,Lubrication
+E0020,M004,2026-08-02,Preventive,29,568.93,T01,Sensor calibration
+E0021,M004,2026-09-03,Corrective,209,505.33,T04,Routine inspection
+E0022,M004,2026-09-04,Inspection,13,220.66,T02,Electrical fault
+E0023,M005,2026-08-05,Inspection,42,123.35,T05,High vibration
+E0024,M005,2026-08-09,Inspection,13,137.06,T02,Sensor calibration
+E0025,M005,2026-08-13,Preventive,49,605.25,T01,Overheating
+E0026,M005,2026-08-14,Inspection,25,219.79,T04,Routine inspection
+E0027,M005,2026-08-17,Preventive,89,325.89,T01,Electrical fault
+E0028,M005,2026-08-20,Preventive,32,494.79,T02,Bearing wear
+E0029,M005,2026-08-26,Corrective,259,1705.74,T03,Electrical fault
+E0030,M006,2026-08-08,Corrective,310,2590.29,T02,Electrical fault
+E0031,M006,2026-08-26,Preventive,46,499.82,T03,Pressure instability
+E0032,M006,2026-08-30,Preventive,76,645.3,T05,High vibration
+E0033,M007,2026-08-03,Corrective,128,2341.43,T01,Lubrication
+E0034,M007,2026-08-04,Preventive,85,234.51,T01,Electrical fault
+E0035,M007,2026-08-16,Inspection,42,87.27,T04,Lubrication
+E0036,M007,2026-08-21,Preventive,25,191.81,T05,Bearing wear
+E0037,M008,2026-08-02,Corrective,130,2536.41,T05,Pressure instability
+E0038,M008,2026-08-07,Preventive,53,348.16,T04,Routine inspection
+E0039,M008,2026-08-17,Preventive,53,594.05,T05,High vibration
+E0040,M008,2026-08-18,Corrective,203,1974.72,T03,Lubrication
+E0041,M008,2026-09-04,Preventive,27,396.33,T05,Overheating
+E0042,M009,2026-08-03,Corrective,314,1373.02,T03,High vibration
+E0043,M009,2026-08-11,Corrective,149,2569.58,T03,Routine inspection
+E0044,M009,2026-08-12,Preventive,62,512.34,T05,Overheating
+E0045,M010,2026-08-04,Preventive,87,237.5,T01,Sensor calibration
+E0046,M010,2026-08-13,Corrective,222,2448.57,T01,Lubrication
+E0047,M010,2026-08-19,Preventive,65,565.25,T02,Lubrication
+E0048,M010,2026-08-26,Preventive,49,352.25,T04,Lubrication
+E0049,M010,2026-08-29,Corrective,359,1703.12,T02,Bearing wear
+E0050,M011,2026-08-02,Corrective,63,1732.37,T01,Pressure instability
+E0051,M011,2026-08-14,Corrective,87,943.32,T05,Sensor calibration
+E0052,M011,2026-08-22,Preventive,41,513.07,T02,High vibration
+E0053,M011,2026-08-24,Preventive,20,440.33,T03,Electrical fault
+E0054,M011,2026-08-26,Corrective,197,3037.07,T02,Overheating
+E0055,M011,2026-08-31,Preventive,75,414.14,T02,Electrical fault
+E0056,M012,2026-08-03,Corrective,175,1163.52,T04,Lubrication
+E0057,M012,2026-08-05,Preventive,46,284.03,T03,Bearing wear
+E0058,M012,2026-08-09,Corrective,242,1236.44,T03,High vibration
+E0059,M012,2026-08-17,Inspection,26,240.6,T01,Lubrication
+E0060,M012,2026-08-24,Preventive,87,675.03,T02,Pressure instability
+E0061,M013,2026-08-01,Preventive,31,678.41,T05,Electrical fault
+E0062,M013,2026-08-03,Corrective,206,1135.53,T03,Routine inspection
+E0063,M013,2026-08-10,Corrective,355,2592.2,T02,Lubrication
+E0064,M013,2026-08-18,Inspection,36,297.35,T03,Lubrication
+E0065,M013,2026-09-03,Inspection,15,199.1,T01,Sensor calibration
+E0066,M014,2026-08-05,Inspection,42,207.3,T05,Electrical fault
+E0067,M014,2026-08-20,Preventive,30,166.65,T04,Bearing wear
+E0068,M014,2026-09-03,Inspection,42,286.72,T03,High vibration
+E0069,M015,2026-08-01,Inspection,19,209.2,T03,High vibration
+E0070,M015,2026-08-02,Preventive,86,330.45,T04,Sensor calibration
+E0071,M015,2026-08-11,Preventive,44,547.35,T03,Lubrication
+E0072,M015,2026-08-26,Preventive,42,623.31,T03,Routine inspection
+E0073,M015,2026-08-27,Corrective,315,1102.0,T02,Bearing wear
+E0074,M015,2026-09-03,Corrective,185,2144.52,T04,Electrical fault
+E0075,M016,2026-08-05,Corrective,130,1551.22,T05,Bearing wear
+E0076,M016,2026-08-09,Corrective,259,1640.8,T05,Lubrication
+E0077,M016,2026-08-14,Preventive,86,433.01,T05,Routine inspection
+E0078,M016,2026-08-16,Preventive,27,674.93,T03,Bearing wear
+E0079,M016,2026-08-29,Preventive,86,440.12,T03,Bearing wear
+E0080,M016,2026-08-30,Inspection,26,232.82,T05,Overheating
+E0081,M017,2026-08-25,Preventive,48,279.5,T05,Bearing wear
+E0082,M017,2026-08-28,Preventive,87,225.92,T02,Bearing wear
+E0083,M017,2026-09-02,Corrective,314,2196.28,T03,Bearing wear
+E0084,M017,2026-09-03,Preventive,86,217.83,T04,Pressure instability
+E0085,M018,2026-08-03,Corrective,90,1316.01,T05,Electrical fault
+E0086,M018,2026-08-19,Preventive,35,522.21,T03,Routine inspection
+E0087,M018,2026-08-22,Preventive,28,637.21,T05,High vibration
+E0088,M018,2026-08-27,Preventive,68,558.87,T04,High vibration
+E0089,M018,2026-08-28,Preventive,48,241.13,T01,Bearing wear
+E0090,M018,2026-08-29,Preventive,64,434.91,T03,Lubrication
+E0091,M018,2026-08-31,Corrective,242,2057.23,T01,Routine inspection
+E0092,M019,2026-08-12,Preventive,48,212.45,T01,Pressure instability
+E0093,M019,2026-08-20,Corrective,258,2328.99,T01,Routine inspection
+E0094,M019,2026-09-01,Preventive,76,487.19,T03,High vibration
+E0095,M020,2026-08-04,Inspection,44,234.12,T03,Lubrication
+E0096,M020,2026-08-10,Inspection,12,121.68,T02,Electrical fault
+E0097,M020,2026-08-25,Preventive,78,614.52,T04,Pressure instability
+E0098,M020,2026-08-27,Corrective,311,1556.38,T04,High vibration
+E0099,M020,2026-09-04,Corrective,308,3086.08,T05,Electrical fault
+E0100,M021,2026-08-06,Corrective,237,2946.82,T01,High vibration
+E0101,M021,2026-08-09,Corrective,218,1686.62,T05,Electrical fault
+E0102,M021,2026-08-23,Preventive,57,621.02,T01,Pressure instability
+E0103,M021,2026-08-24,Preventive,40,663.54,T05,Sensor calibration
+E0104,M021,2026-08-29,Preventive,62,407.46,T03,High vibration
+E0105,M021,2026-09-04,Preventive,57,221.77,T05,Lubrication
+E0106,M022,2026-08-05,Preventive,85,675.7,T04,Sensor calibration
+E0107,M022,2026-08-15,Preventive,35,610.41,T01,High vibration
+E0108,M022,2026-08-22,Corrective,94,732.1,T03,Bearing wear
+E0109,M022,2026-09-01,Preventive,60,357.44,T01,Routine inspection
+E0110,M022,2026-09-02,Preventive,87,529.34,T04,High vibration
+E0111,M022,2026-09-04,Preventive,74,251.42,T03,Lubrication
+E0112,M023,2026-08-02,Preventive,58,680.2,T04,Overheating
+E0113,M023,2026-08-03,Preventive,35,576.26,T05,Bearing wear
+E0114,M023,2026-08-08,Preventive,26,503.31,T03,Electrical fault
+E0115,M023,2026-08-24,Preventive,43,427.92,T01,Overheating
+E0116,M023,2026-08-26,Preventive,47,153.33,T05,Overheating
+E0117,M023,2026-08-27,Preventive,23,639.48,T05,Electrical fault
+E0118,M024,2026-08-05,Corrective,142,1530.8,T03,Electrical fault
+E0119,M024,2026-08-18,Inspection,31,282.6,T04,Bearing wear
+E0120,M024,2026-08-20,Inspection,15,124.99,T01,High vibration
+E0121,M024,2026-08-21,Corrective,191,948.09,T02,Lubrication
+E0122,M024,2026-08-24,Corrective,84,2624.71,T03,Bearing wear
+E0123,M024,2026-09-01,Inspection,25,172.22,T03,Electrical fault
+E0124,M024,2026-09-03,Corrective,233,2831.09,T01,Bearing wear
